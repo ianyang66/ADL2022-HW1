@@ -1,8 +1,8 @@
 # ADL2022-HW1
 
-## Goal
+## Objective
 Implement LSTM-based and GRU-based method to achieve intent classification and slot tagging.  
-For more details, please view my report.
+For more details, please view my report https://www.dropbox.com/s/55vsj8k60jdbwqj/report.pdf?dl=1.
 
 
 ## Environment
