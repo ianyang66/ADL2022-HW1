@@ -1,4 +1,4 @@
-# ADL2022-HW1
+# NTU ADL2022-HW1
 
 ## Objective
 Implement LSTM-based and GRU-based method to achieve intent classification and slot tagging.  
